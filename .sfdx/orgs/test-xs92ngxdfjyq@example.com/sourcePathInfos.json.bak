@@ -32,28 +32,28 @@
     [
         "/Users/jlupton/geolocation/force-app/main/default",
         {
+            "state": "u",
             "sourcePath": "/Users/jlupton/geolocation/force-app/main/default",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 288,
             "modifiedTime": 1533061821574,
             "changeTime": 1533061821574,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
         }
     ],
     [
         "/Users/jlupton/geolocation/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/aura",
             "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1533061541074,
+            "changeTime": 1533061541074,
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
             "isMetadataFile": false,
-            "size": 160,
-            "modifiedTime": 1533061950640,
-            "changeTime": 1533061950640,
-            "isWorkspace": false,
-            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -281,14 +281,14 @@
     [
         "/Users/jlupton/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
+            "size": 155,
+            "modifiedTime": 1533061598185,
+            "changeTime": 1533061598185,
+            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45",
             "isMetadataFile": false,
-            "size": 182,
-            "modifiedTime": 1533062007209,
-            "changeTime": 1533062007209,
-            "contentHash": "f0aad58c6510048b7f88251e480b43431d0b9784"
+            "state": "u"
         }
     ],
     [
@@ -385,352 +385,92 @@
     [
         "/Users/jlupton/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 267,
             "modifiedTime": 1533061821567,
             "changeTime": 1533061821567,
-            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
         }
     ],
     [
         "/Users/jlupton/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 17965,
             "modifiedTime": 1533061821579,
             "changeTime": 1533061821579,
-            "contentHash": "4b06b6411b9b4198c727114d9daeb869a4ff5c74",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "4b06b6411b9b4198c727114d9daeb869a4ff5c74"
         }
     ],
     [
         "/Users/jlupton/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 4561,
             "modifiedTime": 1533061821581,
             "changeTime": 1533061821581,
-            "contentHash": "ff1698466d56eeead175b6fd7f2ca59fefd2b687",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "ff1698466d56eeead175b6fd7f2ca59fefd2b687"
         }
     ],
     [
         "/Users/jlupton/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 4565,
             "modifiedTime": 1533061821584,
             "changeTime": 1533061821584,
-            "contentHash": "40f12921baf8a61eac0cf77acb15b648f1827f98",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "40f12921baf8a61eac0cf77acb15b648f1827f98"
         }
     ],
     [
         "/Users/jlupton/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 4901,
             "modifiedTime": 1533061821593,
             "changeTime": 1533061821593,
-            "contentHash": "a02fd4484fcda77a9dcf8af3036a4202b9b9ae08",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "a02fd4484fcda77a9dcf8af3036a4202b9b9ae08"
         }
     ],
     [
         "/Users/jlupton/geolocation/force-app/main/default/tabs",
         {
+            "state": "u",
             "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/tabs",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1533061821567,
             "changeTime": 1533061821567,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
         }
     ],
     [
         "/Users/jlupton/geolocation/force-app/main/default/profiles",
         {
+            "state": "u",
             "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/profiles",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1533061821593,
             "changeTime": 1533061821593,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/jlupton/geolocation/force-app/main/default/aura/AccountList",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/aura/AccountList",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 352,
-            "modifiedTime": 1533061950644,
-            "changeTime": 1533061950644,
-            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670"
-        }
-    ],
-    [
-        "/Users/jlupton/geolocation/force-app/main/default/aura/AccountListItem",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/aura/AccountListItem",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 352,
-            "modifiedTime": 1533061894130,
-            "changeTime": 1533061894130,
-            "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf"
-        }
-    ],
-    [
-        "/Users/jlupton/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 209,
-            "modifiedTime": 1533061950644,
-            "changeTime": 1533061950644,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
-        }
-    ],
-    [
-        "/Users/jlupton/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 339,
-            "modifiedTime": 1533061959847,
-            "changeTime": 1533061959847,
-            "contentHash": "f9bd7187bf9a569cd90222e052f48aa1c9164a5a"
-        }
-    ],
-    [
-        "/Users/jlupton/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 243,
-            "modifiedTime": 1533061950642,
-            "changeTime": 1533061950642,
-            "contentHash": "ef58eb6c1b77fc51d93ac353bbade8d5567729b3"
-        }
-    ],
-    [
-        "/Users/jlupton/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 10,
-            "modifiedTime": 1533061950643,
-            "changeTime": 1533061950643,
-            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703"
-        }
-    ],
-    [
-        "/Users/jlupton/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 40,
-            "modifiedTime": 1533061950644,
-            "changeTime": 1533061950644,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
-        }
-    ],
-    [
-        "/Users/jlupton/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 661,
-            "modifiedTime": 1533061950644,
-            "changeTime": 1533061950644,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
-        }
-    ],
-    [
-        "/Users/jlupton/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 255,
-            "modifiedTime": 1533061979572,
-            "changeTime": 1533061979572,
-            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef"
-        }
-    ],
-    [
-        "/Users/jlupton/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1533061950643,
-            "changeTime": 1533061950643,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
-        }
-    ],
-    [
-        "/Users/jlupton/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1533061950643,
-            "changeTime": 1533061950643,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
-        }
-    ],
-    [
-        "/Users/jlupton/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 209,
-            "modifiedTime": 1533061894129,
-            "changeTime": 1533061894129,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
-        }
-    ],
-    [
-        "/Users/jlupton/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 120,
-            "modifiedTime": 1533061916032,
-            "changeTime": 1533061916032,
-            "contentHash": "474f6d902cf12af89851140c645345a9f8da10a8"
-        }
-    ],
-    [
-        "/Users/jlupton/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 247,
-            "modifiedTime": 1533061894128,
-            "changeTime": 1533061894128,
-            "contentHash": "087db03e2f9069783a4fdcfb8cba3ebe0379cfd1"
-        }
-    ],
-    [
-        "/Users/jlupton/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 168,
-            "modifiedTime": 1533061925591,
-            "changeTime": 1533061925591,
-            "contentHash": "28b0ed4fe984a051f5f2f586c4d4d1a2b303a706"
-        }
-    ],
-    [
-        "/Users/jlupton/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 40,
-            "modifiedTime": 1533061894130,
-            "changeTime": 1533061894130,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
-        }
-    ],
-    [
-        "/Users/jlupton/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 661,
-            "modifiedTime": 1533061894129,
-            "changeTime": 1533061894129,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
-        }
-    ],
-    [
-        "/Users/jlupton/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 65,
-            "modifiedTime": 1533061894128,
-            "changeTime": 1533061894128,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
-        }
-    ],
-    [
-        "/Users/jlupton/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1533061894128,
-            "changeTime": 1533061894128,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
-        }
-    ],
-    [
-        "/Users/jlupton/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1533061894129,
-            "changeTime": 1533061894129,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
