@@ -177,14 +177,14 @@
     [
         "/Users/jlupton/geolocation/force-app/main/default/objects",
         {
-            "state": "u",
             "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1533067004568,
             "changeTime": 1533067004568,
-            "contentHash": "e2c55c3d04baec3534809c6a36bd5648b363c119"
+            "contentHash": "e2c55c3d04baec3534809c6a36bd5648b363c119",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -192,10 +192,10 @@
         {
             "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/layouts",
             "isDirectory": true,
-            "size": 192,
-            "modifiedTime": 1533060202754,
-            "changeTime": 1533060202754,
-            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "size": 320,
+            "modifiedTime": 1533227909529,
+            "changeTime": 1533227909529,
+            "contentHash": "2f135992b98a71290b447d87530336c7289ac8dd",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -283,10 +283,10 @@
         {
             "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
-            "size": 182,
-            "modifiedTime": 1533062007209,
-            "changeTime": 1533062007209,
-            "contentHash": "f0aad58c6510048b7f88251e480b43431d0b9784",
+            "size": 185,
+            "modifiedTime": 1533062569180,
+            "changeTime": 1533062569180,
+            "contentHash": "c41b4c970000b9d3fffffabc12e9a533f17cb4c4",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -400,10 +400,10 @@
         {
             "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "size": 17965,
-            "modifiedTime": 1533061821579,
-            "changeTime": 1533061821579,
-            "contentHash": "4b06b6411b9b4198c727114d9daeb869a4ff5c74",
+            "size": 18232,
+            "modifiedTime": 1533227909558,
+            "changeTime": 1533227909558,
+            "contentHash": "2ac06bc2e8c9c1cc567c13c981f568b0c4079f0e",
             "isMetadataFile": true,
             "state": "u"
         }
@@ -413,10 +413,10 @@
         {
             "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 4561,
-            "modifiedTime": 1533061821581,
-            "changeTime": 1533061821581,
-            "contentHash": "ff1698466d56eeead175b6fd7f2ca59fefd2b687",
+            "size": 4840,
+            "modifiedTime": 1533227909562,
+            "changeTime": 1533227909562,
+            "contentHash": "e61b36ab9d5523dc3dd0a4b9aeed37eb8c504ed3",
             "isMetadataFile": true,
             "state": "u"
         }
@@ -426,10 +426,10 @@
         {
             "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 4565,
-            "modifiedTime": 1533061821584,
-            "changeTime": 1533061821584,
-            "contentHash": "40f12921baf8a61eac0cf77acb15b648f1827f98",
+            "size": 4848,
+            "modifiedTime": 1533227909566,
+            "changeTime": 1533227909566,
+            "contentHash": "609365cc7be7d19eced8029a4415a8a4cf14f722",
             "isMetadataFile": true,
             "state": "u"
         }
@@ -439,10 +439,10 @@
         {
             "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 4901,
-            "modifiedTime": 1533061821593,
-            "changeTime": 1533061821593,
-            "contentHash": "a02fd4484fcda77a9dcf8af3036a4202b9b9ae08",
+            "size": 5182,
+            "modifiedTime": 1533227909571,
+            "changeTime": 1533227909571,
+            "contentHash": "4a6f4c113a6151762336c0f88150f5b4af1d07be",
             "isMetadataFile": true,
             "state": "u"
         }
@@ -543,10 +543,10 @@
         {
             "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
             "isDirectory": false,
-            "size": 10,
-            "modifiedTime": 1533061950643,
-            "changeTime": 1533061950643,
-            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "size": 111,
+            "modifiedTime": 1533062436827,
+            "changeTime": 1533062436827,
+            "contentHash": "ff97680a451dccf775d504143f673481b13a3300",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -736,27 +736,131 @@
     [
         "/Users/jlupton/geolocation/force-app/main/default/objects/Contact/Contact.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/objects/Contact/Contact.object-meta.xml",
             "isDirectory": false,
+            "size": 4886,
+            "modifiedTime": 1533228216597,
+            "changeTime": 1533228216597,
+            "contentHash": "e620800e77d1199c5d8837a4c186b3d38e3a18bc",
             "isMetadataFile": true,
-            "size": 4967,
-            "modifiedTime": 1533067004570,
-            "changeTime": 1533067004570,
-            "contentHash": "5f4f1e08cbfe0b8554a2de94c6257f37aad636db"
+            "state": "u"
         }
     ],
     [
         "/Users/jlupton/geolocation/force-app/main/default/objects/Contact",
         {
-            "state": "u",
             "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/objects/Contact",
             "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1533228384503,
+            "changeTime": 1533228384503,
+            "contentHash": "4768199c1f74b134d7c6bba8851d183a2e3df12c",
             "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jlupton/geolocation/force-app/main/default/objects/Contact/fields/Date_of_Next_Change__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/objects/Contact/fields/Date_of_Next_Change__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 338,
+            "modifiedTime": 1533227909511,
+            "changeTime": 1533227909511,
+            "contentHash": "7a4734decaec5d321a86e4ff5218c700d67fadf7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jlupton/geolocation/force-app/main/default/layouts/Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/layouts/Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9642,
+            "modifiedTime": 1533227909516,
+            "changeTime": 1533227909516,
+            "contentHash": "bfcc6e8547aa568d7cf011ca37393df181648c03",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jlupton/geolocation/force-app/main/default/layouts/Contact-Contact Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/layouts/Contact-Contact Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9618,
+            "modifiedTime": 1533227909522,
+            "changeTime": 1533227909522,
+            "contentHash": "878c43f4a065af148a59db35efe5aa840197cc22",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jlupton/geolocation/force-app/main/default/layouts/Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/layouts/Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9618,
+            "modifiedTime": 1533227909526,
+            "changeTime": 1533227909526,
+            "contentHash": "318b0bbb7b0fb67ba859419f79204cbca2f87c82",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jlupton/geolocation/force-app/main/default/layouts/Contact-Contact %28Support%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/layouts/Contact-Contact %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9327,
+            "modifiedTime": 1533227909529,
+            "changeTime": 1533227909529,
+            "contentHash": "4e1a9e99eb5e739645c20d63621e5daaba618312",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jlupton/geolocation/force-app/main/default/objects/Contact/fields",
+        {
+            "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/objects/Contact/fields",
+            "isDirectory": true,
             "size": 96,
-            "modifiedTime": 1533067004570,
-            "changeTime": 1533067004570,
-            "contentHash": "661e0d544b605f6d4bf16ac9782ecd625944d391"
+            "modifiedTime": 1533227909511,
+            "changeTime": 1533227909511,
+            "contentHash": "6b6bf69c8e5e68c5d8d334cce808768d96fad7c6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jlupton/geolocation/force-app/main/default/objects/Contact/listViews/View_All_Contacts.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/objects/Contact/listViews/View_All_Contacts.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 417,
+            "modifiedTime": 1533228431906,
+            "changeTime": 1533228431906,
+            "contentHash": "acf2717841bfca6baba8bd9b9d82139b33fcfcdd"
+        }
+    ],
+    [
+        "/Users/jlupton/geolocation/force-app/main/default/objects/Contact/listViews",
+        {
+            "sourcePath": "/Users/jlupton/geolocation/force-app/main/default/objects/Contact/listViews",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1533228384504,
+            "changeTime": 1533228384504,
+            "contentHash": "66befa74a1d3eab5dbc3f897d62c3bbc9967d11e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
